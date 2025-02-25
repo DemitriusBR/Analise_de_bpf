@@ -51,3 +51,14 @@ Essa combinação permite uma análise rápida tanto visual quanto quantitativa 
 
 ![image](https://github.com/user-attachments/assets/7a6dd527-d36f-446a-8bcc-7d522bfc38a1)
 
+
+# Gráfico de Barras
+
+### Metas e Histórico das Médias Mensais
+
+O gráfico de barras apresenta a **porcentagem de conformidade alcançada mensalmente**, sem ser influenciado pelo filtro de tempo selecionado. Ele também exibe a **meta estabelecida**, que foi definida em **98% de aprovação**, representando o objetivo metrificado de conformidade.
+
+Essa visualização permite acompanhar o desempenho ao longo dos meses, comparando a conformidade real com a meta estabelecida, facilitando a análise de progressos ou áreas que necessitam de ajustes para atingir o objetivo.
+
+![image](https://github.com/user-attachments/assets/127c525d-2d22-480a-94fb-bab1ac612725)
+
